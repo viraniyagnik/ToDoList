@@ -24,6 +24,7 @@ Lab 4 — ToDoList
 ## Running the tests
 Calculator application Android studio output as a test result
 
+![image](https://user-images.githubusercontent.com/77527826/158514861-d226be0f-6da5-4d91-8b61-144122952469.png)
 
 
 
